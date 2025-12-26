@@ -1,0 +1,17 @@
+Student_ID,Department,CGPA,Placed,Company,Package_LPA
+101,CSE,8.2,Yes,TCS,4
+102,CSE,7.9,Yes,Infosys,5
+103,CSE,6.8,No,NA,0
+104,CSE,9.1,Yes,Amazon,12
+105,CSE,8.5,Yes,Wipro,4.5
+106,EEE,7.2,No,NA,0
+107,EEE,8.0,Yes,TCS,4
+108,EEE,6.5,No,NA,0
+109,EEE,8.7,Yes,Accenture,6
+110,EEE,7.8,Yes,Infosys,5
+111,ECE,8.1,Yes,Wipro,4.5
+112,ECE,6.9,No,NA,0
+113,ECE,9.0,Yes,Qualcomm,10
+114,ECE,7.4,Yes,TCS,4
+115,ECE,6.2,No,NA,0
+
